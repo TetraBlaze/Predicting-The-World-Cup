@@ -1,22 +1,22 @@
-Year,Location,Average Yearly Temperature (Celsius),TeamA,TeamB,Round,Full-time score TeamA,Ful-time score TeamB,TeamA Elo Rating,TeamB Elo Rating,Form of TeamA,Form of TeamB
+Year,Location,Average Yearly Temperature (Celsius),TeamA,TeamB,Round,Full-time score TeamA,Full-time score TeamB,TeamA Elo Rating,TeamB Elo Rating,Form of TeamA,Form of TeamB
 1930,Uruguay,17.55,France,Mexico,1,4,1,1000,1000,Neutral,Neutral
-1930,Uruguay,17.55,Argentina ,France,1,1,0,,,,
-1930,Uruguay,17.55,Chile,Mexico,1,3,0,,,,
-1930,Uruguay,17.55,Chile,France,1,1,0,,,,
-1930,Uruguay,17.55,Argentina ,Mexico,1,6,3,,,,
-1930,Uruguay,17.55,Argentina ,Chile ,1,3,1,,,,
-1930,Uruguay,17.55,Yoguslavia,Brazil,1,2,1,,,,
-1930,Uruguay,17.55,Yoguslavia,Bolivia,1,4,0,,,,
-1930,Uruguay,17.55,Brazil,Bolovia,1,4,0,,,,
-1930,Uruguay,17.55,Romania,Peru,1,3,1,,,,
-1930,Uruguay,17.55,Uruguay,Peru,1,1,0,,,,
-1930,Uruguay,17.55,Uruguay,Romania,1,4,0,,,,
-1930,Uruguay,17.55,United States,Belgium,1,3,0,,,,
-1930,Uruguay,17.55,United States,Paraguay,1,3,0,,,,
-1930,Uruguay,17.55,Paraguaya,Belgium,1,1,0,,,,
-1930,Uruguay,17.55,Argentina ,United States,2,6,1,,,,
-1930,Uruguay,17.55,Uruguay,Yuguslavia,2,6,1,,,,
-1930,Uruguay,17.55,Uruguay,Argentina,3,4,2,,,,
+1930,Uruguay,17.55,Argentina ,France,1,1,0,,,Neutral,Neutral
+1930,Uruguay,17.55,Chile,Mexico,1,3,0,,,Neutral,Neutral
+1930,Uruguay,17.55,Chile,France,1,1,0,,,Neutral,Neutral
+1930,Uruguay,17.55,Argentina ,Mexico,1,6,3,,,Neutral,Bad
+1930,Uruguay,17.55,Argentina ,Chile ,1,3,1,,,Good,Neutral
+1930,Uruguay,17.55,Yugoslavia,Brazil,1,2,1,,,Neutral,Neutral
+1930,Uruguay,17.55,Yugoslavia,Bolivia,1,4,0,,,Neutral,Neutral
+1930,Uruguay,17.55,Brazil,Bolivia,1,4,0,,,Neutral,Neutral
+1930,Uruguay,17.55,Romania,Peru,1,3,1,,,Neutral,Neutral
+1930,Uruguay,17.55,Uruguay,Peru,1,1,0,,,Neutral,Neutral
+1930,Uruguay,17.55,Uruguay,Romania,1,4,0,,,Neutral,Neutral
+1930,Uruguay,17.55,United States,Belgium,1,3,0,,,Neutral,Neutral
+1930,Uruguay,17.55,United States,Paraguay,1,3,0,,,Neutral,Neutral
+1930,Uruguay,17.55,Paraguay,Belgium,1,1,0,,,Neutral,Neutral
+1930,Uruguay,17.55,Argentina ,United States,2,6,1,,,Good,Neutral
+1930,Uruguay,17.55,Uruguay,Yugoslavia,2,6,1,,,Good,Neutral
+1930,Uruguay,17.55,Uruguay,Argentina,3,4,2,,,Good,Good
 1934,Italy,13.35,Sweden,Argentina,1,3,2,,,,
 1934,Italy,13.35,Austria,France,1,3,2,,,,
 1934,Italy,13.35,Germany,Belgium,1,5,2,,,,
@@ -742,12 +742,12 @@ Year,Location,Average Yearly Temperature (Celsius),TeamA,TeamB,Round,Full-time s
 2010,South Africa,17.75,Italy,New Zealand,1,1,1,,,,
 2010,South Africa,17.75,Slovakia,Italy,1,3,2,,,,
 2010,South Africa,17.75,Paraguay,New Zealand,1,0,0,,,,
-2010,South Africa,17.75,C魌e d'Ivoire,Portugal,1,0,0,,,,
+2010,South Africa,17.75,C么te d'Ivoire,Portugal,1,0,0,,,,
 2010,South Africa,17.75,Brazil,North Korea,1,2,1,,,,
-2010,South Africa,17.75,Brazil,C魌e d'Ivoire,1,3,1,,,,
+2010,South Africa,17.75,Brazil,C么te d'Ivoire,1,3,1,,,,
 2010,South Africa,17.75,Portugal,North Korea,1,7,0,,,,
 2010,South Africa,17.75,Portugal,Brazil,1,0,0,,,,
-2010,South Africa,17.75,North Korea,C魌e d'Ivoire,1,0,3,,,,
+2010,South Africa,17.75,North Korea,C么te d'Ivoire,1,0,3,,,,
 2010,South Africa,17.75,Honduras,Chile,1,0,1,,,,
 2010,South Africa,17.75,Spain,Switzerland,1,0,1,,,,
 2010,South Africa,17.75,Chile,Switzerland,1,1,0,,,,
@@ -783,11 +783,11 @@ Year,Location,Average Yearly Temperature (Celsius),TeamA,TeamB,Round,Full-time s
 2014,Brazil,24.95,Australia,Spain,1,0,3,,,,
 2014,Brazil,24.95,Netherlands,Chile,1,2,0,,,,
 2014,Brazil,24.95,Colombia,Greece,1,3,0,,,,
-2014,Brazil,24.95,C魌e d'Ivoire,Japan,1,2,1,,,,
-2014,Brazil,24.95,Colombia,C魌e d'Ivoire,1,2,1,,,,
+2014,Brazil,24.95,C么te d'Ivoire,Japan,1,2,1,,,,
+2014,Brazil,24.95,Colombia,C么te d'Ivoire,1,2,1,,,,
 2014,Brazil,24.95,Japan,Greece,1,0,0,,,,
 2014,Brazil,24.95,Japan,Colombia,1,1,4,,,,
-2014,Brazil,24.95,Greece,C魌e d'Ivoire,1,2,1,,,,
+2014,Brazil,24.95,Greece,C么te d'Ivoire,1,2,1,,,,
 2014,Brazil,24.95,Uruguay,Costa Rica,1,1,3,,,,
 2014,Brazil,24.95,England,Italy,1,1,2,,,,
 2014,Brazil,24.95,Uruguay,England,1,2,1,,,,
